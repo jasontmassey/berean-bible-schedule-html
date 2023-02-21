@@ -1,0 +1,8 @@
+Organization
+============
+
+.. image:: how-schedule-organized.png
+
+
+.. ----------------------------------------------------------------------------
+.. vim: sw=3 ts=3 et nowrap

@@ -1,0 +1,12 @@
+Distributed Gospels
+===================
+
+.. image:: distributed-gospels.png
+
+.. image:: distributed-gospels-table.png
+   :scale: 50%
+   :align: center
+
+
+.. ----------------------------------------------------------------------------
+.. vim: sw=3 ts=3 et nowrap

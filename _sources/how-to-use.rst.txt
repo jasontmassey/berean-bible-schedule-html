@@ -1,0 +1,76 @@
+How to Use
+==========
+
+The Berean Bible Schedule was originally created to be a 1-year plan.  However,
+by changing how you approach the schedule, you can easily convert it into a
+2-year, 3-year, or 4-year reading plan.
+
+There are 365 readings in the schedule, each containing three sections:
+
+* Old Testament ("OT"),
+* New Testament ("NT"), and
+* Inspirational (Psalms and Proverbs).
+
+
+As a 1-year plan
+----------------
+
+As a 1-year plan, you can use the schedule "by date" or "by day number"
+depending on whether you start on January 1st or some other day.
+
+**By date:** start the schedule on January 1st, completing all the sections for each day (OT, NT, Inspirational), then continue until December 31st.
+
+
+**By day number:** start the schedule on any arbitrary day with reading number ``001``, completing all the sections for each day (OT, NT, Inspirational), then continue until reading number ``365``.
+
+
+As a 2-year plan
+----------------
+
+* Aim to complete a reading every two days.
+
+* Start the schedule with reading number ``001``.
+
+* Read the OT section on day one.
+
+* Read the NT and Inspirational sections on day two.
+
+* Repeat until you complete reading number ``365``.
+
+
+As a 3-year plan
+----------------
+
+* Aim to complete a reading every three days.
+
+* Start the schedule with reading number ``001``.
+
+* Read the OT section on day one.
+
+* Read the NT section on day two.
+  
+* Read the Inspirational section on day three.
+
+* Repeat until you complete reading number ``365``.
+
+
+As a 4-year plan
+----------------
+
+* Aim to complete a reading every four days.
+
+* Start the schedule with reading number ``001``.
+
+* Read the OT section on day one.
+
+* Read the NT section on day two.
+  
+* Read the Psalm(s) from the Inspirational section on day three.
+
+* Read the Proverb(s) from the Inspirational section on day four.
+
+* Repeat until you complete reading number ``365``.
+
+
+.. ----------------------------------------------------------------------------
+.. vim: sw=3 ts=3 et nowrap

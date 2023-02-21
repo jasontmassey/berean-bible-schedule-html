@@ -1,0 +1,31 @@
+Berean Bible Schedule
+=====================
+
+.. image:: ready-to-get-serious-about-your-bible.png
+
+The Bereans received the word with all eagerness, examining the Scriptures
+daily (Acts 17:11).
+
+Jesus said, "Man shall not live by bread alone, but by every word that comes
+from the mouth of God" (Matthew 4:4).
+
+All Scripture is breathed out by God and profitable for teaching, for reproof,
+for correction, and for training in righteousness, that the man of God may be
+complete, equipped for every good work (2 Timothy 3:16).
+
+For whatever was written in former days was written for our instruction, that
+through endurance and through the encouragement of the Scriptures we might have
+hope (Romans 15:4).
+
+
+.. toctree::
+   :maxdepth: 2
+
+   how-organized.rst
+   dist-gospels.rst
+   how-to-use.rst
+   readings/index.rst
+   about.rst
+
+.. ----------------------------------------------------------------------------
+.. vim: sw=3 ts=3 et nowrap

@@ -1,0 +1,11 @@
+Readings
+========
+
+.. toctree::
+   :maxdepth: 2
+
+   by-date/index.rst
+   by-day-number/index.rst
+
+.. ----------------------------------------------------------------------------
+.. vim: sw=3 ts=3 et nowrap

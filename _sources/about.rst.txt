@@ -1,0 +1,24 @@
+About
+=====
+
+The Berean Bible Schedule was created by Jason Massey in Indianapolis, Indiana.
+
+Originally created in the 1990s,
+the schedule was a 26-page printed booklet (US letter-sized sheets, 8.5in x 5.5in pages).
+For years, Jason used it for personal Bible-reading,
+and gave the booklets away to whomever was interested.
+
+In February 2023, Jason decided to migrate the schedule to the Web,
+which prompted the creation of this site,
+the content of which was constructed from screenshots of the original booklet.
+Jason also intends to update the printed booklet,
+then make it available for download in PDF format for all who wish to
+print/create their own.
+
+You may reach Jason via email:
+
+``jason`` ``@`` ``jason t massey`` (typed all together, no spaces) ``.com``
+
+
+.. ----------------------------------------------------------------------------
+.. vim: sw=3 ts=3 et nowrap
